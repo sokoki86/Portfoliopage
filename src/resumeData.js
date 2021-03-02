@@ -21,7 +21,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am a former pastry chef with a passion for all things tech.  I am currently enrolled in the engineer immersion program at Thinkful.  I got into this field because I love thinking outside of the box and finding solutions to problems otherwise left unsolved.  I bring a ton of cerativity to everything I do.  I look forward to working on a team that challenges me to become a better developer.  I would love to collaborate on a project ",
+    "aboutme":"I am a former pastry chef with a passion for all things tech.  I am currently enrolled in the engineer immersion program at Thinkful.  I got into this field because I love thinking outside of the box and finding solutions to problems otherwise left unsolved.  I bring a ton of creativity to everything I do.  I look forward to working on a team that challenges me to become a better developer.  I would love to collaborate on a project ",
     "address":"Clayton NC",
     "website":"",
     "education":[
